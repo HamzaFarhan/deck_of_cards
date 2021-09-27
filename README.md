@@ -1,24 +1,20 @@
-# Project name here
-> Summary description here.
+# Deck of cards
+> nbdev deck example
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install deck_of_cards`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
-
 ```python
-1+1
+Card(suit=3, rank=10)
 ```
 
 
 
 
-    2
+    10 of Spades
 
 
