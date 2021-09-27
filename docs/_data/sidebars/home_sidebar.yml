@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Card
       url: card.html
+    - output: web,pdf
+      title: Deck
+      url: deck.html
     output: web
     title: deck_of_cards
   output: web

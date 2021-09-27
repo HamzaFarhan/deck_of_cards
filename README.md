@@ -9,12 +9,15 @@
 ## How to use
 
 ```python
-Card(suit=3, rank=10)
+card = Card(suit=3, rank=10)
+print(card)
+deck = Deck()
+print(card in deck.cards)
+deck.remove_card(card)
+print(card in deck.cards)
 ```
 
-
-
-
     10 of Spades
-
+    True
+    False
 

@@ -1,6 +1,7 @@
 {
   "deck_of_cards": {
     "Overview": "/",
-    "module name here": "card.html"
+    "Card": "card.html",
+    "Deck": "deck.html"
   }
 }
