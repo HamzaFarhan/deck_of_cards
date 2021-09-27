@@ -3,7 +3,8 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"Card": "00_card.ipynb",
-         "Deck": "01_deck.ipynb"}
+         "Deck": "01_deck.ipynb",
+         "Card2": "02_card2.ipynb"}
 
 modules = ["card.py",
            "deck.py"]
